@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Food delivery system(foodie)](https://foodie-99.herokuapp.com/)**
--
+
 - 🤔 I’m currently looking for opportunities to improve my self in real world problems.
 
 - 🌱 I’m currently learning **Azure ana AWS**
