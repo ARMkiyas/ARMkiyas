@@ -19,4 +19,17 @@
 - ⚡ Fun fact **I play games very often.**
 
 ### Connect with me:
+<a href="https://twitter.com/armkiyas99">
+  <img align="left" alt="kiyas's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/armkiyas/">
+  <img align="left" alt="kiyas's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ARMkiyas">
+  <img align="left" alt="kiyas's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/armkiyas99">
+  <img align="left" alt="kiyas's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 
