@@ -68,7 +68,7 @@
 
 ## 📊 My Github Stats
 
-<img align="left" width="49%" alt="Kiyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ARMkiyas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img align="left" width="50%" alt="Kiyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ARMkiyas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
 <p align="right">
     <a href="https://github.com/ARMkiyas/github-readme-streak-stats">
