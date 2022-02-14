@@ -74,16 +74,14 @@
 
 <img align="left" width="49%"  alt="Kiyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ARMkiyas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
-<p align="right">
+
     <a href="https://github.com/ARMkiyas/github-readme-streak-stats">
         <img width="48%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ARMkiyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ARMkiyas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ARMkiyas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-<div align="center">
-### Show some ❤️ by starring some of the repositories!
 
-
-</div>
-
+<h1 align="center">
+Show some ❤️ by starring some of the repositories!
+</h1>
