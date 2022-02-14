@@ -31,6 +31,12 @@
 <a href="https://github.com/ARMkiyas">
   <img align="left" alt="kiyas's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 <a href="https://www.facebook.com/armkiyas99">
   <img align="left" alt="kiyas's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
