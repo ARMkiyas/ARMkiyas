@@ -81,6 +81,6 @@
 <img alt="ARMkiyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ARMkiyas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
-<h1 align="center">
+<h2 align="center">
 Show some ❤️ by starring some of the repositories!
-</h1>
+</h2>
