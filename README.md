@@ -23,17 +23,17 @@
 
 ### Connect with me:
 <a href="https://twitter.com/armkiyas99">
-  <img align="left" alt="kiyas's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" src="https://img.icons8.com/color/28/000000/twitter--v1.png" alt="kiyas's Twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/armkiyas/">
-  <img align="left" alt="kiyas's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <img align="left" src="https://img.icons8.com/color/28/000000/linkedin.png" alt="kiyas's Linkedin"/>
 </a>
 <a href="https://github.com/ARMkiyas">
-  <img align="left" alt="kiyas's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ <img align="left" src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="kiyas's Github"/>
 </a>
 
 <a href="https://www.facebook.com/armkiyas99">
-  <img align="left" alt="kiyas's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+ <img align="left" src="https://img.icons8.com/fluency/28/000000/facebook-new.png" alt="kiyas's Facebook"/>
 </a>
 
 <br />
