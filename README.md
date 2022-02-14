@@ -10,7 +10,7 @@
 
 - 🤔 I’m currently looking for opportunities to improve my self in real world problems.
 
-- 🌱 I’m currently learning **Azure ana AWS**
+- 🌱 I’m currently learning **Cloud services(Azure and AWS)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
