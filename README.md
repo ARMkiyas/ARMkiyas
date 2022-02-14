@@ -32,11 +32,6 @@
   <img align="left" alt="kiyas's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<div align="center">
-
-
-
-</div>
 <a href="https://www.facebook.com/armkiyas99">
   <img align="left" alt="kiyas's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -86,4 +81,9 @@
 </p>
 <img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ARMkiyas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
+<div align="center">
 ### Show some ❤️ by starring some of the repositories!
+
+
+</div>
+
