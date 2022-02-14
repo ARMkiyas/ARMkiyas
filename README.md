@@ -82,5 +82,5 @@
 
 
 <h2 align="center">
-Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories and following me!
 </h2>
