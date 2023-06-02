@@ -78,8 +78,7 @@
         <img width="48%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ARMkiyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ARMkiyas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<img alt="ARMkiyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ARMkiyas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
+<img alt="ARMkiyas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ARMkiyas&theme=react-dark" />
 
 <h2 align="center">
 Show some ❤️ by starring some of the repositories and following me!
