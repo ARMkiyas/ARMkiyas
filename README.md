@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **armkiyas99@hotmail.com**
+- 📫 How to reach me **armkiyas99@gmail.com**
 
 - ⚡ Fun fact **I play games very often.**
 
