@@ -49,19 +49,34 @@
  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/typescript.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/48/postgreesql.png"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" width="45" height="45"/>
  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"/>
+ <img src="https://img.icons8.com/color/48/material-ui.png" />
+  <img src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4" width="45" height="45"/>
+ <img src="https://img.icons8.com/color/48/tailwind_css.png"/>
   <img src=" https://iconape.com/wp-content/files/ro/370540/png/370540.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ <img src="https://img.icons8.com/office/40/express-js.png" alt="express"/>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
+ <img src="https://img.icons8.com/fluency/48/terraform.png"/>
+ <img src="https://img.icons8.com/color/48/ansible.png"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png"/>
+   <img src="https://img.icons8.com/color/48/docker.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud-platform.png" alt="google-cloud-platform"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 
 </p>
 <p align="center">
