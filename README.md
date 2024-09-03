@@ -4,16 +4,16 @@
 
 
 
-<h3 align="center">I'm a passionate Full Stack Developer and Cloud & Devops Enthusiastic.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer, Cloud & Devops Enthusiastic.</h3>
 
 ### 🙋‍♂️ About Me
  <img align="right" width="40%"  src="https://github.com/ARMkiyas/ARMkiyas/blob/main/ani.gif?raw=true" />
 
-- 🔭 I’m currently working on **My Portfolio Website and CloudCare Application**
+- 🔭 I’m currently working on **My Portfolio Website and terraform-jenkins-on-azure**
 
 - 🤔 I’m currently looking for opportunities to improve my self in real world problems.
 
-- 🌱 I’m currently learning **Cloud Infrastructure Technologies and Devops**
+- 🌱 I’m currently learning **Cloud Infrastructure Technologies and Devops Prectices**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
