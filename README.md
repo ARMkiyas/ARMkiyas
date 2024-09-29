@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I play games very often.**
 
+
+<!--
 ### Connect with me:
 <a href="https://twitter.com/armkiyas99">
   <img align="left" src="https://img.icons8.com/color/28/000000/twitter--v1.png" alt="kiyas's Twitter"/>
@@ -33,7 +35,7 @@
 <a href="https://www.facebook.com/armkiyas99">
  <img align="left" src="https://img.icons8.com/fluency/28/000000/facebook-new.png" alt="kiyas's Facebook"/>
 </a>
-
+-->
 <br />
 <br />
 
