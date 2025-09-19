@@ -1,8 +1,11 @@
 
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif )
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ARM.Kiyas</h1>
-
-
+<!-- Main Title -->
+<h1 align="center">
+  Hola Amigos!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
+  , I'm <span style="color:#00d4ff;">Kiyas</span>
+</h1>
 
 <h3 align="center">I'm a passionate Full Stack Developer, Cloud & Devops Enthusiastic.</h3>
 
@@ -17,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **contact@kiyas.tech**
+- 📫 How to reach me **contact@armkiyas.tech**
 
 - ⚡ Fun fact **I play games very often.**
 
