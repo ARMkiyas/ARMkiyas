@@ -90,7 +90,7 @@
 
 ## 📊 My Github Stats
 
-<img align="left" width="49%"  alt="Kiyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ARMkiyas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img align="left" width="49%"  alt="Kiyas's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/armkiyas?cardType=level-alternate&theme=dark&fontFamily=PT%20Sans&preferLogin=false" />
 <p align="left">
     <a href="https://github.com/ARMkiyas/github-readme-streak-stats">
         <img width="48%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ARMkiyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ARMkiyas&theme=black-ice&stroke=0000&background=060A0CD0"/>
