@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **contact@armkiyas.tech**
+- 📫 How to reach me **kiyas.arm@hotmail.com**
 
 - ⚡ Fun fact **I play games very often.**
 
