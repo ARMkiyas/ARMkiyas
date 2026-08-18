@@ -12,7 +12,7 @@
 ### 🙋‍♂️ About Me
  <img align="right" width="40%"  src="https://github.com/ARMkiyas/ARMkiyas/blob/main/ani.gif?raw=true" />
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on a **Custom CMS Site**
 
 - 🤔 I’m currently looking for opportunities to improve my self in real world problems.
 
@@ -85,7 +85,7 @@
 
 </p>
 <p align="center">
-<img width="40%" height="fit-content" alt="Kiyas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMkiyas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img width="40%" height="fit-content" alt="Kiyas's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ARMkiyas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 ## 📊 My Github Stats
@@ -93,7 +93,7 @@
 <img align="left" width="49%"  alt="Kiyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ARMkiyas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <p align="left">
     <a href="https://github.com/ARMkiyas/github-readme-streak-stats">
-        <img width="48%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ARMkiyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ARMkiyas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img width="48%"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ARMkiyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ARMkiyas&theme=black-ice&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <img alt="ARMkiyas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ARMkiyas&theme=react-dark" />
